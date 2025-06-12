@@ -1,3 +1,7 @@
 hello
+
 i have learned today new techolongy 
 how to use git hub
+
+ok now we go ahead
+
