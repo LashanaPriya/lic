@@ -68,7 +68,7 @@ form{
 .label{
     font-size: 15px;
     color: black;
-    margin-bottom: 3px;
+    margin-bottom: 4px;
 }
 
 .input{
@@ -117,5 +117,5 @@ input{
     font-weight: 600;
 }
 .extra-line a{
-    color: #0095B6;
+    color: #0095B7;
 }
